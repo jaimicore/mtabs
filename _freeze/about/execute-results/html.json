@@ -1,0 +1,15 @@
+{
+  "hash": "81f4b4adb89dca36fdfdb6f31b511d53",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\nimage: profile.jpg\nabout:\n  template: jolla\n  links:\n    - icon: twitter\n      text: Twitter\n      href: https://x.com/jaimicore\n    - icon: github\n      text: Github\n      href: https://github.com/jaimicore\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/jaime-castro-mondragon/\n    - icon: \"{{< iconify simple-icons bluesky >}}\"\n      text: Bluesky\n      href: https://bsky.app/profile/jaimicore.bsky.social\n    - icon: wind #postage-fill\n      text: Website\n      href: https://jaimicore.github.io/\nformat: html\nengine: knitr\n\n# date: \"5/22/2021\"\n# date-modified: \"5/23/2021\"\n---\n\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n\n.caption{\n  text-align: center;\n}\n</style>\n:::\n\n\n::: {.justify}\n\nWelcome! This blog is written by [Jaime A Castro-Mondragon](https://jaimicore.github.io/) and you will see here a variety of topics, although mainly related to bioinformatics and from time to time a random post.\n\nIf you are wondering about the blog's name '*More Than A Black Screen*', it comes from a conversation with a friend, who told me that working in a terminal (*a black screen*) seems extremely boring. I disagree of course and I think that as a programmer, magic comes from the simplicity of working in a terminal. You can think that working in a terminal is like reading a book without illustrations.\n\n\n::: {.caption}\n\n![Welcome message](mtabs.png){.lightbox}\n\n::: {.justify}\n\nYou can find me also in the following sites, although don't expect much content from me on social media.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

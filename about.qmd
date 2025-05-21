@@ -36,17 +36,16 @@ engine: knitr
 }
 ```
 
-::: {.justify}
-
-Welcome! This blog is written by [Jaime A Castro-Mondragon](https://jaimicore.github.io/) and you will see here a variety of topics, although mainly related to bioinformatics and from time to time a random post.
+::::: justify
+Welcome! This blog is written by [Jaime A Castro-Mondragon](https://jaimicore.github.io/) and you will see here a variety of topics, although mainly related to bioinformatics and from time to time a random post, opinion or thought.
 
 If you are wondering about the blog's name '*More Than A Black Screen*', it comes from a conversation with a friend, who told me that working in a terminal (*a black screen*) seems extremely boring. I disagree of course and I think that as a programmer, magic comes from the simplicity of working in a terminal. You can think that working in a terminal is like reading a book without illustrations.
 
-
-::: {.caption}
-
+:::: caption
 ![Welcome message](mtabs.png){.lightbox}
 
-::: {.justify}
-
+::: justify
 You can find me also in the following sites, although don't expect much content from me on social media.
+:::
+::::
+:::::

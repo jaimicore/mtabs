@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "mtabs"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/jaimicore
+      - icon: twitter
+        href: https://x.com/jaimicore
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/jaimicore.bsky.social
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jaime-castro-mondragon/
+      - icon: wind #postage-fill
+        href: https://jaimicore.github.io/
+      - icon: rss
+        href: index.xml
+
+  # RSS
+  site-url: https://www.myblogexample.io
+  description: "A great sample blog"
+
+
+        
+format:
+  html:
+    theme:
+      light: sketchy
+      dark: darkly
+    default-appearance: dark
+    appearance: false
+    css: styles.css
+
+editor: visual
